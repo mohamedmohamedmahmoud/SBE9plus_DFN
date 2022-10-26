@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Align_CTD >
+  <Version value="7.26.7.129" />
+  <ServerName value="Align CTD" />
+  <InputDir value="C:\Users\hp\Desktop\SBE9plus_DFN\DATA_Files\Step05_Filter" />
+  <InputFileArray size="186" GrowBy="-1" >
+    <ArrayItem index="0" value="sta0057.cnv" />
+    <ArrayItem index="1" value="sta0058.cnv" />
+    <ArrayItem index="2" value="sta0059.cnv" />
+    <ArrayItem index="3" value="sta0060.cnv" />
+    <ArrayItem index="4" value="sta0061.cnv" />
+    <ArrayItem index="5" value="sta0062.cnv" />
+    <ArrayItem index="6" value="sta0063.cnv" />
+    <ArrayItem index="7" value="sta0064.cnv" />
+    <ArrayItem index="8" value="sta0065.cnv" />
+    <ArrayItem index="9" value="sta0066.cnv" />
+    <ArrayItem index="10" value="sta0067.cnv" />
+    <ArrayItem index="11" value="sta0068.cnv" />
+    <ArrayItem index="12" value="sta0069.cnv" />
+    <ArrayItem index="13" value="sta0070.cnv" />
+    <ArrayItem index="14" value="sta0071.cnv" />
+    <ArrayItem index="15" value="sta0072.cnv" />
+    <ArrayItem index="16" value="sta0073.cnv" />
+    <ArrayItem index="17" value="sta0074.cnv" />
+    <ArrayItem index="18" value="sta0075.cnv" />
+    <ArrayItem index="19" value="sta0076.cnv" />
+    <ArrayItem index="20" value="sta0077.cnv" />
+    <ArrayItem index="21" value="sta0078.cnv" />
+    <ArrayItem index="22" value="sta0079.cnv" />
+    <ArrayItem index="23" value="sta0080.cnv" />
+    <ArrayItem index="24" value="sta0081.cnv" />
+    <ArrayItem index="25" value="sta0082.cnv" />
+    <ArrayItem index="26" value="sta0083.cnv" />
+    <ArrayItem index="27" value="sta0084.cnv" />
+    <ArrayItem index="28" value="sta0085.cnv" />
+    <ArrayItem index="29" value="sta0086.cnv" />
+    <ArrayItem index="30" value="sta0087.cnv" />
+    <ArrayItem index="31" value="sta0088.cnv" />
+    <ArrayItem index="32" value="sta0089.cnv" />
+    <ArrayItem index="33" value="sta0090.cnv" />
+    <ArrayItem index="34" value="sta0091.cnv" />
+    <ArrayItem index="35" value="sta0092.cnv" />
+    <ArrayItem index="36" value="sta0093.cnv" />
+    <ArrayItem index="37" value="sta0094.cnv" />
+    <ArrayItem index="38" value="sta0095.cnv" />
+    <ArrayItem index="39" value="sta0096.cnv" />
+    <ArrayItem index="40" value="sta0097.cnv" />
+    <ArrayItem index="41" value="sta0098.cnv" />
+    <ArrayItem index="42" value="sta0099.cnv" />
+    <ArrayItem index="43" value="sta0100.cnv" />
+    <ArrayItem index="44" value="sta0101.cnv" />
+    <ArrayItem index="45" value="sta0102.cnv" />
+    <ArrayItem index="46" value="sta0103.cnv" />
+    <ArrayItem index="47" value="sta0104.cnv" />
+    <ArrayItem index="48" value="sta0105.cnv" />
+    <ArrayItem index="49" value="sta0106.cnv" />
+    <ArrayItem index="50" value="sta0107.cnv" />
+    <ArrayItem index="51" value="sta0108.cnv" />
+    <ArrayItem index="52" value="sta0109.cnv" />
+    <ArrayItem index="53" value="sta0110.cnv" />
+    <ArrayItem index="54" value="sta0111.cnv" />
+    <ArrayItem index="55" value="sta0112.cnv" />
+    <ArrayItem index="56" value="sta0113.cnv" />
+    <ArrayItem index="57" value="sta0114.cnv" />
+    <ArrayItem index="58" value="sta0115.cnv" />
+    <ArrayItem index="59" value="sta0116.cnv" />
+    <ArrayItem index="60" value="sta0117.cnv" />
+    <ArrayItem index="61" value="sta0118.cnv" />
+    <ArrayItem index="62" value="sta0119.cnv" />
+    <ArrayItem index="63" value="sta0120.cnv" />
+    <ArrayItem index="64" value="sta0121.cnv" />
+    <ArrayItem index="65" value="sta0122.cnv" />
+    <ArrayItem index="66" value="sta0123.cnv" />
+    <ArrayItem index="67" value="sta0124.cnv" />
+    <ArrayItem index="68" value="sta0125.cnv" />
+    <ArrayItem index="69" value="sta0126.cnv" />
+    <ArrayItem index="70" value="sta0127.cnv" />
+    <ArrayItem index="71" value="sta0128.cnv" />
+    <ArrayItem index="72" value="sta0129.cnv" />
+    <ArrayItem index="73" value="sta0130.cnv" />
+    <ArrayItem index="74" value="sta0131.cnv" />
+    <ArrayItem index="75" value="sta0132.cnv" />
+    <ArrayItem index="76" value="sta0133.cnv" />
+    <ArrayItem index="77" value="sta0134.cnv" />
+    <ArrayItem index="78" value="sta0135.cnv" />
+    <ArrayItem index="79" value="sta0136.cnv" />
+    <ArrayItem index="80" value="sta0137.cnv" />
+    <ArrayItem index="81" value="sta0138.cnv" />
+    <ArrayItem index="82" value="sta0139.cnv" />
+    <ArrayItem index="83" value="sta0140.cnv" />
+    <ArrayItem index="84" value="sta0141.cnv" />
+    <ArrayItem index="85" value="sta0142.cnv" />
+    <ArrayItem index="86" value="sta0143.cnv" />
+    <ArrayItem index="87" value="sta0144.cnv" />
+    <ArrayItem index="88" value="sta0145.cnv" />
+    <ArrayItem index="89" value="sta0146.cnv" />
+    <ArrayItem index="90" value="sta0147.cnv" />
+    <ArrayItem index="91" value="sta0148.cnv" />
+    <ArrayItem index="92" value="sta0149.cnv" />
+    <ArrayItem index="93" value="sta0150.cnv" />
+    <ArrayItem index="94" value="sta0151.cnv" />
+    <ArrayItem index="95" value="sta0152.cnv" />
+    <ArrayItem index="96" value="sta0153.cnv" />
+    <ArrayItem index="97" value="sta0154.cnv" />
+    <ArrayItem index="98" value="sta0155.cnv" />
+    <ArrayItem index="99" value="sta0156.cnv" />
+    <ArrayItem index="100" value="sta0157.cnv" />
+    <ArrayItem index="101" value="sta0158.cnv" />
+    <ArrayItem index="102" value="sta0159.cnv" />
+    <ArrayItem index="103" value="sta0160.cnv" />
+    <ArrayItem index="104" value="sta0161.cnv" />
+    <ArrayItem index="105" value="sta0162.cnv" />
+    <ArrayItem index="106" value="sta0163.cnv" />
+    <ArrayItem index="107" value="sta0164.cnv" />
+    <ArrayItem index="108" value="sta0165.cnv" />
+    <ArrayItem index="109" value="sta0166.cnv" />
+    <ArrayItem index="110" value="sta0167.cnv" />
+    <ArrayItem index="111" value="sta0168.cnv" />
+    <ArrayItem index="112" value="sta0169.cnv" />
+    <ArrayItem index="113" value="sta0170.cnv" />
+    <ArrayItem index="114" value="sta0171.cnv" />
+    <ArrayItem index="115" value="sta0172.cnv" />
+    <ArrayItem index="116" value="sta0173.cnv" />
+    <ArrayItem index="117" value="sta0174.cnv" />
+    <ArrayItem index="118" value="sta0175.cnv" />
+    <ArrayItem index="119" value="sta0176.cnv" />
+    <ArrayItem index="120" value="sta0177.cnv" />
+    <ArrayItem index="121" value="sta0178.cnv" />
+    <ArrayItem index="122" value="sta0179.cnv" />
+    <ArrayItem index="123" value="sta0180.cnv" />
+    <ArrayItem index="124" value="sta0181.cnv" />
+    <ArrayItem index="125" value="sta0182.cnv" />
+    <ArrayItem index="126" value="sta0183.cnv" />
+    <ArrayItem index="127" value="sta0184.cnv" />
+    <ArrayItem index="128" value="sta0185.cnv" />
+    <ArrayItem index="129" value="sta0186.cnv" />
+    <ArrayItem index="130" value="sta0187.cnv" />
+    <ArrayItem index="131" value="sta0188.cnv" />
+    <ArrayItem index="132" value="sta0189.cnv" />
+    <ArrayItem index="133" value="sta0190.cnv" />
+    <ArrayItem index="134" value="sta0191.cnv" />
+    <ArrayItem index="135" value="sta0192.cnv" />
+    <ArrayItem index="136" value="sta0193.cnv" />
+    <ArrayItem index="137" value="sta0194.cnv" />
+    <ArrayItem index="138" value="sta0195.cnv" />
+    <ArrayItem index="139" value="sta0196.cnv" />
+    <ArrayItem index="140" value="sta0197.cnv" />
+    <ArrayItem index="141" value="sta0198.cnv" />
+    <ArrayItem index="142" value="sta0199.cnv" />
+    <ArrayItem index="143" value="sta0200.cnv" />
+    <ArrayItem index="144" value="sta0201.cnv" />
+    <ArrayItem index="145" value="sta0202.cnv" />
+    <ArrayItem index="146" value="sta0203.cnv" />
+    <ArrayItem index="147" value="sta0204.cnv" />
+    <ArrayItem index="148" value="sta0205.cnv" />
+    <ArrayItem index="149" value="sta0206.cnv" />
+    <ArrayItem index="150" value="sta0207.cnv" />
+    <ArrayItem index="151" value="sta0208.cnv" />
+    <ArrayItem index="152" value="sta0209.cnv" />
+    <ArrayItem index="153" value="sta0210.cnv" />
+    <ArrayItem index="154" value="sta0211.cnv" />
+    <ArrayItem index="155" value="sta0212.cnv" />
+    <ArrayItem index="156" value="sta0213.cnv" />
+    <ArrayItem index="157" value="sta0214.cnv" />
+    <ArrayItem index="158" value="sta0215.cnv" />
+    <ArrayItem index="159" value="sta0216.cnv" />
+    <ArrayItem index="160" value="sta0217.cnv" />
+    <ArrayItem index="161" value="sta0218.cnv" />
+    <ArrayItem index="162" value="sta0219.cnv" />
+    <ArrayItem index="163" value="sta0220.cnv" />
+    <ArrayItem index="164" value="sta0221.cnv" />
+    <ArrayItem index="165" value="sta0222.cnv" />
+    <ArrayItem index="166" value="sta0223.cnv" />
+    <ArrayItem index="167" value="sta0224.cnv" />
+    <ArrayItem index="168" value="sta0225.cnv" />
+    <ArrayItem index="169" value="sta0226.cnv" />
+    <ArrayItem index="170" value="sta0227.cnv" />
+    <ArrayItem index="171" value="sta0228.cnv" />
+    <ArrayItem index="172" value="sta0229.cnv" />
+    <ArrayItem index="173" value="sta0230.cnv" />
+    <ArrayItem index="174" value="sta0231.cnv" />
+    <ArrayItem index="175" value="sta0232.cnv" />
+    <ArrayItem index="176" value="sta0233.cnv" />
+    <ArrayItem index="177" value="sta0234.cnv" />
+    <ArrayItem index="178" value="sta0235.cnv" />
+    <ArrayItem index="179" value="sta0236.cnv" />
+    <ArrayItem index="180" value="sta0237.cnv" />
+    <ArrayItem index="181" value="sta0238.cnv" />
+    <ArrayItem index="182" value="sta0239.cnv" />
+    <ArrayItem index="183" value="sta0240.cnv" />
+    <ArrayItem index="184" value="sta0241.cnv" />
+    <ArrayItem index="185" value="sta0242.cnv" />
+  </InputFileArray>
+  <OutputDir value="C:\Users\hp\Desktop\SBE9plus_DFN\DATA_Files\Step06_AlignCTD" />
+  <NameAppend value="" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <CalcArray Size="8" >
+    <CalcArrayItem index="0" CalcID="81" >
+      <Calc UnitID="5" Ordinal="0" >
+        <FullName value="Temperature [IPTS-68, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="1" CalcID="81" >
+      <Calc UnitID="5" Ordinal="1" >
+        <FullName value="Temperature, 2 [IPTS-68, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="2" CalcID="12" >
+      <Calc UnitID="58" Ordinal="0" >
+        <FullName value="Conductivity [S/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="3" CalcID="12" >
+      <Calc UnitID="58" Ordinal="1" >
+        <FullName value="Conductivity, 2 [S/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="4" CalcID="57" >
+      <Calc UnitID="63" Ordinal="0" >
+        <FullName value="Oxygen raw, SBE 43 [V]" />
+        <ApplyHysteresisCorrection value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="5" CalcID="93" >
+      <Calc UnitID="38" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="6" CalcID="59" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="PAR/Irradiance, Biospherical/Licor" />
+        <PAR_Units value="0" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="7" CalcID="1" >
+      <Calc UnitID="29" Ordinal="0" >
+        <FullName value="Altimeter [m]" />
+      </Calc>
+    </CalcArrayItem>
+  </CalcArray>
+  <ValArray size="8" >
+    <ValArrayItem index="0" value="0.000000" variable_name="Temperature" />
+    <ValArrayItem index="1" value="0.000000" variable_name="Temperature" />
+    <ValArrayItem index="2" value="0.000000" variable_name="Conductivity" />
+    <ValArrayItem index="3" value="0.000000" variable_name="Conductivity" />
+    <ValArrayItem index="4" value="3.000000" variable_name="Oxygen raw, SBE 43" />
+    <ValArrayItem index="5" value="0.000000" variable_name="Fluorescence, WET Labs ECO-AFL/FL" />
+    <ValArrayItem index="6" value="0.000000" variable_name="PAR/Irradiance, Biospherical/Licor" />
+    <ValArrayItem index="7" value="0.000000" variable_name="Altimeter" />
+  </ValArray>
+</Align_CTD>

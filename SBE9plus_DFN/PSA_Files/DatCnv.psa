@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data_Conversion >
+  <Version value="7.26.7.129" />
+  <ServerName value="Data Conversion" />
+  <InstrumentPath value="C:\Users\hp\Desktop\SBE9plus_DFN\CON_Files\STA0098.XMLCON" />
+  <InstrumentMatch value="0" />
+  <InputDir value="C:\Users\hp\Desktop\SBE9plus_DFN\DATA_Files\Step00_hex_files" />
+  <InputFileArray size="186" GrowBy="-1" >
+    <ArrayItem index="0" value="sta0057.hex" />
+    <ArrayItem index="1" value="sta0058.hex" />
+    <ArrayItem index="2" value="sta0059.hex" />
+    <ArrayItem index="3" value="sta0060.hex" />
+    <ArrayItem index="4" value="sta0061.hex" />
+    <ArrayItem index="5" value="sta0062.hex" />
+    <ArrayItem index="6" value="sta0063.hex" />
+    <ArrayItem index="7" value="sta0064.hex" />
+    <ArrayItem index="8" value="sta0065.hex" />
+    <ArrayItem index="9" value="sta0066.hex" />
+    <ArrayItem index="10" value="sta0067.hex" />
+    <ArrayItem index="11" value="sta0068.hex" />
+    <ArrayItem index="12" value="sta0069.hex" />
+    <ArrayItem index="13" value="sta0070.hex" />
+    <ArrayItem index="14" value="sta0071.hex" />
+    <ArrayItem index="15" value="sta0072.hex" />
+    <ArrayItem index="16" value="sta0073.hex" />
+    <ArrayItem index="17" value="sta0074.hex" />
+    <ArrayItem index="18" value="sta0075.hex" />
+    <ArrayItem index="19" value="sta0076.hex" />
+    <ArrayItem index="20" value="sta0077.hex" />
+    <ArrayItem index="21" value="sta0078.hex" />
+    <ArrayItem index="22" value="sta0079.hex" />
+    <ArrayItem index="23" value="sta0080.hex" />
+    <ArrayItem index="24" value="sta0081.hex" />
+    <ArrayItem index="25" value="sta0082.hex" />
+    <ArrayItem index="26" value="sta0083.hex" />
+    <ArrayItem index="27" value="sta0084.hex" />
+    <ArrayItem index="28" value="sta0085.hex" />
+    <ArrayItem index="29" value="sta0086.hex" />
+    <ArrayItem index="30" value="sta0087.hex" />
+    <ArrayItem index="31" value="sta0088.hex" />
+    <ArrayItem index="32" value="sta0089.hex" />
+    <ArrayItem index="33" value="sta0090.hex" />
+    <ArrayItem index="34" value="sta0091.hex" />
+    <ArrayItem index="35" value="sta0092.hex" />
+    <ArrayItem index="36" value="sta0093.hex" />
+    <ArrayItem index="37" value="sta0094.hex" />
+    <ArrayItem index="38" value="sta0095.hex" />
+    <ArrayItem index="39" value="sta0096.hex" />
+    <ArrayItem index="40" value="sta0097.hex" />
+    <ArrayItem index="41" value="sta0098.hex" />
+    <ArrayItem index="42" value="sta0099.hex" />
+    <ArrayItem index="43" value="sta0100.hex" />
+    <ArrayItem index="44" value="sta0101.hex" />
+    <ArrayItem index="45" value="sta0102.hex" />
+    <ArrayItem index="46" value="sta0103.hex" />
+    <ArrayItem index="47" value="sta0104.hex" />
+    <ArrayItem index="48" value="sta0105.hex" />
+    <ArrayItem index="49" value="sta0106.hex" />
+    <ArrayItem index="50" value="sta0107.hex" />
+    <ArrayItem index="51" value="sta0108.hex" />
+    <ArrayItem index="52" value="sta0109.hex" />
+    <ArrayItem index="53" value="sta0110.hex" />
+    <ArrayItem index="54" value="sta0111.hex" />
+    <ArrayItem index="55" value="sta0112.hex" />
+    <ArrayItem index="56" value="sta0113.hex" />
+    <ArrayItem index="57" value="sta0114.hex" />
+    <ArrayItem index="58" value="sta0115.hex" />
+    <ArrayItem index="59" value="sta0116.hex" />
+    <ArrayItem index="60" value="sta0117.hex" />
+    <ArrayItem index="61" value="sta0118.hex" />
+    <ArrayItem index="62" value="sta0119.hex" />
+    <ArrayItem index="63" value="sta0120.hex" />
+    <ArrayItem index="64" value="sta0121.hex" />
+    <ArrayItem index="65" value="sta0122.hex" />
+    <ArrayItem index="66" value="sta0123.hex" />
+    <ArrayItem index="67" value="sta0124.hex" />
+    <ArrayItem index="68" value="sta0125.hex" />
+    <ArrayItem index="69" value="sta0126.hex" />
+    <ArrayItem index="70" value="sta0127.hex" />
+    <ArrayItem index="71" value="sta0128.hex" />
+    <ArrayItem index="72" value="sta0129.hex" />
+    <ArrayItem index="73" value="sta0130.hex" />
+    <ArrayItem index="74" value="sta0131.hex" />
+    <ArrayItem index="75" value="sta0132.hex" />
+    <ArrayItem index="76" value="sta0133.hex" />
+    <ArrayItem index="77" value="sta0134.hex" />
+    <ArrayItem index="78" value="sta0135.hex" />
+    <ArrayItem index="79" value="sta0136.hex" />
+    <ArrayItem index="80" value="sta0137.hex" />
+    <ArrayItem index="81" value="sta0138.hex" />
+    <ArrayItem index="82" value="sta0139.hex" />
+    <ArrayItem index="83" value="sta0140.hex" />
+    <ArrayItem index="84" value="sta0141.hex" />
+    <ArrayItem index="85" value="sta0142.hex" />
+    <ArrayItem index="86" value="sta0143.hex" />
+    <ArrayItem index="87" value="sta0144.hex" />
+    <ArrayItem index="88" value="sta0145.hex" />
+    <ArrayItem index="89" value="sta0146.hex" />
+    <ArrayItem index="90" value="sta0147.hex" />
+    <ArrayItem index="91" value="sta0148.hex" />
+    <ArrayItem index="92" value="sta0149.hex" />
+    <ArrayItem index="93" value="sta0150.hex" />
+    <ArrayItem index="94" value="sta0151.hex" />
+    <ArrayItem index="95" value="sta0152.hex" />
+    <ArrayItem index="96" value="sta0153.hex" />
+    <ArrayItem index="97" value="sta0154.hex" />
+    <ArrayItem index="98" value="sta0155.hex" />
+    <ArrayItem index="99" value="sta0156.hex" />
+    <ArrayItem index="100" value="sta0157.hex" />
+    <ArrayItem index="101" value="sta0158.hex" />
+    <ArrayItem index="102" value="sta0159.hex" />
+    <ArrayItem index="103" value="sta0160.hex" />
+    <ArrayItem index="104" value="sta0161.hex" />
+    <ArrayItem index="105" value="sta0162.hex" />
+    <ArrayItem index="106" value="sta0163.hex" />
+    <ArrayItem index="107" value="sta0164.hex" />
+    <ArrayItem index="108" value="sta0165.hex" />
+    <ArrayItem index="109" value="sta0166.hex" />
+    <ArrayItem index="110" value="sta0167.hex" />
+    <ArrayItem index="111" value="sta0168.hex" />
+    <ArrayItem index="112" value="sta0169.hex" />
+    <ArrayItem index="113" value="sta0170.hex" />
+    <ArrayItem index="114" value="sta0171.hex" />
+    <ArrayItem index="115" value="sta0172.hex" />
+    <ArrayItem index="116" value="sta0173.hex" />
+    <ArrayItem index="117" value="sta0174.hex" />
+    <ArrayItem index="118" value="sta0175.hex" />
+    <ArrayItem index="119" value="sta0176.hex" />
+    <ArrayItem index="120" value="sta0177.hex" />
+    <ArrayItem index="121" value="sta0178.hex" />
+    <ArrayItem index="122" value="sta0179.hex" />
+    <ArrayItem index="123" value="sta0180.hex" />
+    <ArrayItem index="124" value="sta0181.hex" />
+    <ArrayItem index="125" value="sta0182.hex" />
+    <ArrayItem index="126" value="sta0183.hex" />
+    <ArrayItem index="127" value="sta0184.hex" />
+    <ArrayItem index="128" value="sta0185.hex" />
+    <ArrayItem index="129" value="sta0186.hex" />
+    <ArrayItem index="130" value="sta0187.hex" />
+    <ArrayItem index="131" value="sta0188.hex" />
+    <ArrayItem index="132" value="sta0189.hex" />
+    <ArrayItem index="133" value="sta0190.hex" />
+    <ArrayItem index="134" value="sta0191.hex" />
+    <ArrayItem index="135" value="sta0192.hex" />
+    <ArrayItem index="136" value="sta0193.hex" />
+    <ArrayItem index="137" value="sta0194.hex" />
+    <ArrayItem index="138" value="sta0195.hex" />
+    <ArrayItem index="139" value="sta0196.hex" />
+    <ArrayItem index="140" value="sta0197.hex" />
+    <ArrayItem index="141" value="sta0198.hex" />
+    <ArrayItem index="142" value="sta0199.hex" />
+    <ArrayItem index="143" value="sta0200.hex" />
+    <ArrayItem index="144" value="sta0201.hex" />
+    <ArrayItem index="145" value="sta0202.hex" />
+    <ArrayItem index="146" value="sta0203.hex" />
+    <ArrayItem index="147" value="sta0204.hex" />
+    <ArrayItem index="148" value="sta0205.hex" />
+    <ArrayItem index="149" value="sta0206.hex" />
+    <ArrayItem index="150" value="sta0207.hex" />
+    <ArrayItem index="151" value="sta0208.hex" />
+    <ArrayItem index="152" value="sta0209.hex" />
+    <ArrayItem index="153" value="sta0210.hex" />
+    <ArrayItem index="154" value="sta0211.hex" />
+    <ArrayItem index="155" value="sta0212.hex" />
+    <ArrayItem index="156" value="sta0213.hex" />
+    <ArrayItem index="157" value="sta0214.hex" />
+    <ArrayItem index="158" value="sta0215.hex" />
+    <ArrayItem index="159" value="sta0216.hex" />
+    <ArrayItem index="160" value="sta0217.hex" />
+    <ArrayItem index="161" value="sta0218.hex" />
+    <ArrayItem index="162" value="sta0219.hex" />
+    <ArrayItem index="163" value="sta0220.hex" />
+    <ArrayItem index="164" value="sta0221.hex" />
+    <ArrayItem index="165" value="sta0222.hex" />
+    <ArrayItem index="166" value="sta0223.hex" />
+    <ArrayItem index="167" value="sta0224.hex" />
+    <ArrayItem index="168" value="sta0225.hex" />
+    <ArrayItem index="169" value="sta0226.hex" />
+    <ArrayItem index="170" value="sta0227.hex" />
+    <ArrayItem index="171" value="sta0228.hex" />
+    <ArrayItem index="172" value="sta0229.hex" />
+    <ArrayItem index="173" value="sta0230.hex" />
+    <ArrayItem index="174" value="sta0231.hex" />
+    <ArrayItem index="175" value="sta0232.hex" />
+    <ArrayItem index="176" value="sta0233.hex" />
+    <ArrayItem index="177" value="sta0234.hex" />
+    <ArrayItem index="178" value="sta0235.hex" />
+    <ArrayItem index="179" value="sta0236.hex" />
+    <ArrayItem index="180" value="sta0237.hex" />
+    <ArrayItem index="181" value="sta0238.hex" />
+    <ArrayItem index="182" value="sta0239.hex" />
+    <ArrayItem index="183" value="sta0240.hex" />
+    <ArrayItem index="184" value="sta0241.hex" />
+    <ArrayItem index="185" value="sta0242.hex" />
+  </InputFileArray>
+  <OutputDir value="C:\Users\hp\Desktop\SBE9plus_DFN\DATA_Files\Step01_cnv_files" />
+  <NameAppend value="" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <ProcessScansToEnd value="1" />
+  <ScansToSkip value="0" />
+  <ScansToProcess value="1" />
+  <MergeHeaderFile value="0" />
+  <OutputFormat value="0" high="1" low="0" initialValue="0" />
+  <FromCast value="1" high="1" low="0" initialValue="0" />
+  <CreateFile value="2" high="2" low="0" initialValue="0" />
+  <ScanRangeSource value="3" high="3" low="0" initialValue="3" />
+  <ScanRangeOffset value="0.000000" />
+  <ScanRangeDuration value="2.000000" />
+  <StartTimeOption value="0" />
+  <PromptForNoteAndOrStartTime value="0" />
+  <CalcArray Size="10" >
+    <CalcArrayItem index="0" CalcID="72" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Scan Count" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="1" CalcID="65" >
+      <Calc UnitID="3" Ordinal="0" >
+        <FullName value="Pressure, Digiquartz [db]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="2" CalcID="81" >
+      <Calc UnitID="5" Ordinal="0" >
+        <FullName value="Temperature [IPTS-68, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="3" CalcID="81" >
+      <Calc UnitID="5" Ordinal="1" >
+        <FullName value="Temperature, 2 [IPTS-68, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="4" CalcID="12" >
+      <Calc UnitID="58" Ordinal="0" >
+        <FullName value="Conductivity [S/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="5" CalcID="12" >
+      <Calc UnitID="58" Ordinal="1" >
+        <FullName value="Conductivity, 2 [S/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="6" CalcID="57" >
+      <Calc UnitID="63" Ordinal="0" >
+        <FullName value="Oxygen raw, SBE 43 [V]" />
+        <ApplyHysteresisCorrection value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="7" CalcID="93" >
+      <Calc UnitID="38" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="8" CalcID="59" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="PAR/Irradiance, Biospherical/Licor [umol photons/m^2/sec]" />
+        <PAR_Units value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="9" CalcID="1" >
+      <Calc UnitID="29" Ordinal="0" >
+        <FullName value="Altimeter [m]" />
+      </Calc>
+    </CalcArrayItem>
+  </CalcArray>
+  <MiscellaneousDataForCalculations >
+    <Latitude value="0.000000" />
+    <Longitude value="0.000000" />
+    <DescentRateAndAcceleration >
+      <WindowSize value="2.000000" />
+    </DescentRateAndAcceleration>
+    <Oxygen >
+      <WindowSize value="2.000000" />
+      <ApplyHysteresisCorrection value="1" />
+      <ApplyTauCorrection value="1" />
+    </Oxygen>
+    <AverageSoundVelocity >
+      <MinimumPressure value="20.000000" />
+      <MinimumSalinity value="20.000000" />
+      <PressureWindowSize value="20.000000" />
+      <TimeWindowSize value="60.000000" />
+    </AverageSoundVelocity>
+    <PlumeAnomaly >
+      <ThetaB value="0.000000" />
+      <SalinityB value="0.000000" />
+      <ThetaZSalinityZRatio value="0.000000" />
+      <ReferencePressure value="0.000000" />
+    </PlumeAnomaly>
+    <PotentialTempAnomaly >
+      <A0 value="0.000000" />
+      <A1 value="0.000000" />
+      <A1Multiplier value="0" />
+    </PotentialTempAnomaly>
+  </MiscellaneousDataForCalculations>
+</Data_Conversion>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bottle_Summary >
+  <Version value="7.26.7.129" />
+  <ServerName value="Bottle Summary" />
+  <InstrumentPath value="C:\Users\hp\Desktop\SBE9plus_DFN\CON_Files\STA0884.CON" />
+  <InstrumentMatch value="0" />
+  <InputDir value="C:\Users\hp\Desktop\SBE9plus_DFN\DATA_Files\Step01_cnv_files" />
+  <InputFileArray size="8" GrowBy="-1" >
+    <ArrayItem index="0" value="sta0842.ros" />
+    <ArrayItem index="1" value="sta0845.ros" />
+    <ArrayItem index="2" value="sta0846.ros" />
+    <ArrayItem index="3" value="sta0850.ros" />
+    <ArrayItem index="4" value="sta0853.ros" />
+    <ArrayItem index="5" value="sta0854.ros" />
+    <ArrayItem index="6" value="sta0857.ros" />
+    <ArrayItem index="7" value="sta0859.ros" />
+  </InputFileArray>
+  <OutputDir value="C:\Users\hp\Desktop\SBE9plus_DFN\DATA_Files\Step02_Bottle" />
+  <NameAppend value="" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <OutputMinMaxValues value="0" />
+  <AverageCalcArray Size="7" >
+    <CalcArrayItem index="0" CalcID="72" >
+      <Calc UnitID="-1" Ordinal="0" >
+        <FullName value="Scan Count" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="1" CalcID="65" >
+      <Calc UnitID="3" Ordinal="0" >
+        <FullName value="Pressure, Digiquartz [db]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="2" CalcID="81" >
+      <Calc UnitID="5" Ordinal="0" >
+        <FullName value="Temperature [IPTS-68, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="3" CalcID="12" >
+      <Calc UnitID="58" Ordinal="0" >
+        <FullName value="Conductivity [S/m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="4" CalcID="57" >
+      <Calc UnitID="63" Ordinal="0" >
+        <FullName value="Oxygen raw, SBE 43 [V]" />
+        <ApplyHysteresisCorrection value="1" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="5" CalcID="1" >
+      <Calc UnitID="29" Ordinal="0" >
+        <FullName value="Altimeter [m]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="6" CalcID="24" >
+      <Calc UnitID="60" Ordinal="0" >
+        <FullName value="Fluorescence, Chelsea Aqua 3 Chl Con [ug/l]" />
+      </Calc>
+    </CalcArrayItem>
+  </AverageCalcArray>
+  <SelectArray >
+    <ArrayItem index="0" value="0" />
+    <ArrayItem index="1" value="1" />
+    <ArrayItem index="2" value="1" />
+    <ArrayItem index="3" value="1" />
+    <ArrayItem index="4" value="1" />
+    <ArrayItem index="5" value="0" />
+    <ArrayItem index="6" value="1" />
+  </SelectArray>
+  <DeriveCalcArray Size="3" >
+    <CalcArrayItem index="0" CalcID="70" >
+      <Calc UnitID="49" Ordinal="0" >
+        <FullName value="Salinity, Practical [PSU]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="1" CalcID="15" >
+      <Calc UnitID="53" Ordinal="0" >
+        <FullName value="Density [sigma-theta, kg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="2" CalcID="55" >
+      <Calc UnitID="40" Ordinal="0" >
+        <FullName value="Oxygen, SBE 43 [ml/l]" />
+        <WindowSize value="2.000000" />
+        <ApplyHysteresisCorrection value="1" />
+        <ApplyTauCorrection value="1" />
+      </Calc>
+    </CalcArrayItem>
+  </DeriveCalcArray>
+  <ApplyTauCorrection value="1" />
+</Bottle_Summary>
